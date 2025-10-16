@@ -7,7 +7,7 @@ The main script, **`runsimulation_countywise.py`**, runs stochastic simulations 
 
 ---
 
-## 🧩 Model Overview
+## Model Overview
 
 Each county is treated as a node in a network, and cattle movements between counties represent edges with weights corresponding to the **volume of cows moved**.
 
@@ -38,7 +38,7 @@ where:
 
 ---
 
-## ⚙️ Usage
+## Usage
 
 Run the simulation from the command line:
 
